@@ -1,0 +1,31 @@
+body {
+    background-color: #26b596;
+}
+
+img {
+    border-radius: 20px 20px 20px 0px;
+}
+
+.learnclass {
+    border: solid;
+    background-color: bisque;
+    width: 80%;
+    padding: 40px 10%;
+    display: flex;
+    height: auto;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 10px;
+}
+
+h1 {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    border: solid 2px brown;
+    border-radius: 10px;
+    background: linear-gradient(rgb(150, 7, 7), brown);
+}
+
+.header {
+    border: #26b596;
+    background-color: #26b596;
+}
